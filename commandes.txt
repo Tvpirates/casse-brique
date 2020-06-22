@@ -1,0 +1,7 @@
+g++ -c src/Batte.cpp -o bin/Batte.o -I include -L lib -lmingw32 -lSDL2main -lSDL2
+g++ -c src/Balle.cpp -o bin/Balle.o -I include -L lib -lmingw32 -lSDL2main -lSDL2
+g++ -c src/ObjetParent.cpp -o bin/ObjetParent.o -I include -L lib -lmingw32 -lSDL2main -lSDL2
+g++ -c src/main.cpp -o bin/main.o -I include -L lib -lmingw32 -lSDL2main -lSDL2
+g++ -c src/Brique.cpp -o bin/Brique.o -I include -L lib -lmingw32 -lSDL2main -lSDL2
+g++ -c src/MurDeBrique.cpp -o bin/MurDeBrique.o -I include -L lib -lmingw32 -lSDL2main -lSDL2
+g++ bin/main.o bin/Batte.o bin/ObjetParent.o bin/Balle.o bin/MurDeBrique.o bin/Brique.o -o bin/Prog -I include -L lib -lmingw32 -lSDL2main -lSDL2
