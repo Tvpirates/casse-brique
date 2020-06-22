@@ -14,6 +14,13 @@ Le jeu du casse brique a été réalisé dans le cadre d'un projet tutoré pour 
 Le jeu a été réalisé en C++ avec l'utilisation de la bibliothèque SDL.
 Pour faciliter la compilation du code, nous avons réalisé un programme en python qui à partir d'un fichier de commande s'occupe de la compilation.
 
+Pour compiler le projet, placez vous dans le répertoire *casse-brique*, ouvrez une invite de commande et ecrivez la ligne suivante :
+```python
+python compil.py
+```
+
+
+
 -----------------
 # Les commandes
 Pour lancer le jeu, vous devez vous placez dans le répertoire cass-brique puis lancer une invite de commande. Dans cette invite de commande tapeé la ligne suivante :
