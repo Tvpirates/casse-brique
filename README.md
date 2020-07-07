@@ -1,10 +1,8 @@
 # **Le casse brique**
 
-![Developper Bryan](https://xelyos.fr/assets/img/status_md/developper/Bryan.png) ![Developper Thomas](https://xelyos.fr/assets/img/status_md/developper/Thomas.png)
+![Developper Bryan](http://images.xelyos.fr/md_status/developper/Bryan.png) ![Developper Thomas](http://images.xelyos.fr/md_status/developper/Thomas.png)
 
-<div style="text-align:center">
-<img src="https://droidsoft.fr/wordpress/wp-content/uploads/2014/03/com-mediocre-smashhit.png" alt="Logo casse Brique"/></div>
-
+![Logo casse Brique](https://droidsoft.fr/wordpress/wp-content/uploads/2014/03/com-mediocre-smashhit.png)
 
 ## Le projet
 Le jeu du casse brique a été réalisé dans le cadre d'un projet tutoré pour le formation de DUT Informatique en année spéciale à l'IUT d'Amiens.
@@ -28,8 +26,8 @@ Pour lancer le jeu, vous devez vous placez dans le répertoire cass-brique puis 
 ./bin/Prog.exe
 ```
 La fenêtre de jeu va se lancer.
-> Si la fenêtre ne se lance pas, désactiver votre anti-virus
+> Si la fenêtre ne se lance pas, désactivez votre anti-virus
 
 Pour vous déplacer, utilisez les flèches directionnelles `gauche` et `droite` ou bien les touches `Q` et `D`.
 
-![Developper Thomas](https://xelyos.fr/assets/img/git_img/casse-brique/preview.gif)
+![Visualisation Projet](http://images.xelyos.fr/git/casse-brique/preview.gif)
